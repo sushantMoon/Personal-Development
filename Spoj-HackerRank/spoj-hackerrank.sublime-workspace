@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"len",
+				"lengthSubstring"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"max",
+				"maxlis"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"in",
+				"inc\t#include <…>"
+			],
+			[
+				"di",
+				"difference"
+			],
+			[
+				"re",
+				"remainder"
+			],
+			[
+				"pow",
+				"power"
+			],
+			[
+				"num",
+				"num"
+			],
+			[
+				"st",
+				"startR"
+			],
+			[
+				"sta",
+				"startC"
+			],
+			[
+				"v",
+				"visited"
+			],
+			[
+				"g",
+				"graph"
+			],
+			[
+				"dis",
+				"distanceArray"
+			],
+			[
+				"r",
+				"root"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"c",
+				"child"
+			],
+			[
+				"ve",
+				"vertices"
+			],
+			[
+				"start",
+				"startC"
+			],
+			[
+				"star",
+				"startR"
+			],
+			[
+				"scan",
+				"scanint"
+			],
+			[
+				"Tri",
+				"TriangularIndex"
+			],
+			[
+				"T",
+				"TriangularIndex"
+			],
+			[
+				"wh",
+				"windowWidth"
+			],
+			[
+				"i",
+				"imgpath"
+			],
+			[
+				"im_",
+				"im_rescaled"
+			],
+			[
+				"text",
+				"text_im"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"img",
+				"imgpath"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "input",
+			"settings":
+			{
+				"buffer_size": 25,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ANARC09A.cpp",
+			"settings":
+			{
+				"buffer_size": 652,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/C++14.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++14.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++14.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++14.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 296.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pr",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"`",
+			"os.listdir('.')",
+			"help(os.system)",
+			"import os",
+			"sad",
+			"exit()",
+			"from utils import *",
+			"import os",
+			"help(downscaleImage)",
+			"python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank"
+	],
+	"file_history":
+	[
+		"/media/feliz/Safira/GitHub/Captcha-Solver/Readme.md",
+		"/media/feliz/Safira/GitHub/Captcha-Solver/Tesseract/Training/jTessBoxEditorFX/README.md",
+		"/home/feliz/Downloads/Popcorn-Time-0.3.10-Linux-64/README.md",
+		"/media/feliz/Safira/GitHub/Captcha-Solver/Tesseract/Training/readme.txt",
+		"/media/feliz/Safira/GitHub/Captcha-Solver/Tesseract/Readme.md",
+		"/media/feliz/Safira/GitHub/Captcha-Solver/Reference-Testing/Readme.md",
+		"/media/feliz/Safira/GitHub/Captcha-Solver/Tesseract/tesseract/README.md",
+		"/media/feliz/Safira/GitHub/Captcha-Solver/Preprocessing-Captcha/Readme.md",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/BLKEK.cpp",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/BAT3.cpp",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/BAT2.cpp",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/Incomplete Problems",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/ToSolve.md",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/ANARC09A.cpp",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/ADDREV.cpp",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/JULKA.cpp",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/PT07Z.cpp",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/BINSTIRL.cpp",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/Euler10.cpp",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/input",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/LABYR1.cpp",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/PALIN.cpp",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/Euler12.cpp",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/Euler13.cpp",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/NTHPRIME.cpp",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/Euler8.cpp",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/TDKPRIME.cpp",
+		"/run/user/1000/gvfs/ftp:host=192.168.43.195,port=3721,user=anonymous/Download/Jagga Jasoos 2017 Hindi 1CD DvDRip x264 AAC ESub- Hon3y/www.hon3yhd.to.txt",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/Euler11.cpp",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/spoj-hackerrank.sublime-project",
+		"/media/feliz/Safira/GitHub/Spoj-HackerRank/spoj-hackerrank.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 88.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"int",
+			"length",
+			"int",
+			")));",
+			"index",
+			"alen",
+			"divide",
+			"[MAX]",
+			"char* result",
+			"char result[MAX]",
+			"char*",
+			"sum",
+			"j",
+			"index",
+			"num1",
+			"(int)",
+			"a",
+			"1001",
+			" &&",
+			"startC",
+			"startR",
+			",R,C,graph",
+			" ",
+			"mask",
+			"r",
+			"R",
+			"r",
+			"c",
+			"C",
+			"c",
+			"C",
+			"c",
+			"49",
+			"cases",
+			"]);",
+			"\t// return 0;",
+			"// return 0;",
+			"lld",
+			"long long",
+			"();\n",
+			"divisor",
+			"divisors"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "input",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ANARC09A.cpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								652,
+								652
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 162.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C++14.sublime-build",
+	"project": "spoj-hackerrank.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/media/feliz/Safira/GitHub/Captcha-Solver/captcha-solver.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,5 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Enabled"
+}
+// WSL Settings Json For C/C++ 
+// https://github.com/Microsoft/vscode-cpptools/blob/master/Documentation/LanguageServer/Windows%20Subsystem%20for%20Linux.md

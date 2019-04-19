@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "E:\\GitHub\\OS-Udacity"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.py": "python",
+			"cstdio": "cpp",
+			"system_error": "cpp",
+			"type_traits": "cpp",
+			"limits": "cpp",
+			"iostream": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}
